@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: A Guide for Healthy Screen Time Habits
+description: Created by Julie Molina, NBC-HWC
 logo: logo.png
 
 github:
-  is_project_page: true
+  is_project_page: false
