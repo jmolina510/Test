@@ -2,24 +2,24 @@
 
 ## Do you:
 
-    - Need a break from too much scrolling?
-    - Feel burnt out by screen time?
-    - Wish you spent more time away from screens?
+   - Need a break from too much scrolling?
+   - Feel burnt out by screen time?
+   - Wish you spent more time away from screens?
 
 Maintaining healthy habits is hard work. Yet often there’s something about screen time boundaries that feels especially hard. Fortunately, there’s a lot of evidence these days for how behavior change strategies can help people make these kinds of healthy changes in their lives. 
 
 ## In this free PDF guide you’ll find:
 
-    - An overview of why it’s important to set boundaries on your screen time.
-    - Four big reasons limiting screen time is difficult.
-    - How behavior change strategies can help your screen time habits.
-    - A workbook to put into action changes you’d like to make.
+   - An overview of why it’s important to set boundaries on your screen time.
+   - Four big reasons limiting screen time is difficult.
+   - How behavior change strategies can help your screen time habits.
+   - A workbook to put into action changes you’d like to make.
 
 ### More about the author and the project
 
 I’m a health coach certified by the National Board for Health & Wellness Coaching (NBC-HWC). I also love to write. In my time working with clients, I’ve seen how much digital wellbeing ties into a person’s overall health and wellness. I enrolled in the 2021 Duke Continuing Studies Technical Writing professional certificate to further my writing skills and decided for the final project to create this free resource for folks to learn from and explore. I hope you enjoy!
 
-    Julie Molina
+   Julie Molina
 
 PS: If you’d like to connect, you can find me on LinkedIn [Julie Molina](https://www.linkedin.com/in/molinajulie/)
 
@@ -28,34 +28,19 @@ PS: If you’d like to connect, you can find me on LinkedIn [Julie Molina](https
 
 
 
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/jmolina510/jandersen_test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-- 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+
+
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
