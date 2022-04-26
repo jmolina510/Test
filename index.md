@@ -2,9 +2,9 @@
 
 ### Do you:
 
-###   - Need a break from too much scrolling?
-###   - Feel burned-out by screen time?
-###   - Wish you spent more time away from screens?
+   - Need a break from too much scrolling?
+   - Feel burned-out by screen time?
+   - Wish you spent more time away from screens?
 
 Maintaining healthy habits is hard work. Yet there’s something about screen time boundaries that often feels especially hard. Fortunately, there’s growing evidence for how using behavior change strategies helps people with all sorts of challenging habits. 
 
