@@ -1,12 +1,12 @@
-# Hey there!
+# Welcome
 
-## Do you:
+### Do you:
 
 ###   - Need a break from too much scrolling?
 ###   - Feel burned-out by screen time?
 ###   - Wish you spent more time away from screens?
 
-Maintaining healthy habits is hard work. Yet often there’s something about screen time boundaries that feels especially hard. Fortunately, there’s a lot of evidence these days for how behavior change strategies can help people make these kinds of healthy changes in their lives. 
+Maintaining healthy habits is hard work. Yet there’s something about screen time boundaries that often feels especially hard. Fortunately, there’s a lot of evidence these days for how behavior change strategies can help people make these kinds of healthy changes in their lives. 
 
 ## In this [free PDF guide](doc.pdf) you’ll find:
 
