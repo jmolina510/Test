@@ -17,7 +17,9 @@ Maintaining healthy habits is hard work. Yet there’s something about screen ti
 
 ### About the author and this project
 
-I’m a health coach certified by the National Board for Health & Wellness Coaching (NBC-HWC). I also love to write. In my time working with clients, I’ve seen how much digital wellbeing ties into a person’s overall health and wellness. When I enrolled in the 2021 Duke Continuing Studies Technical Writing professional certificate to further my writing skills, I decided to create this free resource for folks to learn from and explore. 
+I’m a health coach certified by the National Board for Health & Wellness Coaching (NBC-HWC). I also love to write. 
+
+In my time working with clients, I’ve seen how much digital wellbeing ties into a person’s overall health and wellness. When I enrolled in the 2021 Duke Continuing Studies Technical Writing professional certificate to further my writing skills, I decided to create this free resource for folks to learn from and explore. 
 
 I hope you enjoy and find value from the guide!
 
