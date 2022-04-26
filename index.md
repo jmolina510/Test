@@ -21,7 +21,7 @@ I’m a health coach certified by the National Board for Health & Wellness Coach
 
     Julie Molina
 
-PS: If you’d like to connect, you can find me on [LinkedIn](https://www.linkedin.com/in/molinajulie/)
+PS: If you’d like to connect, you can find me on LinkedIn [Julie Molina](https://www.linkedin.com/in/molinajulie/)
 
 
 
