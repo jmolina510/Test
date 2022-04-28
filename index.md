@@ -8,7 +8,7 @@
 
 Maintaining healthy habits is hard work. Yet there’s something about screen time boundaries that often feels especially hard. Fortunately, there’s growing evidence for how using behavior change strategies helps people with all sorts of challenging habits. 
 
-## In this [free PDF guide](doc.pdf) you’ll find:
+## In this [free PDF guide](Guide-Healthy-Screen-Time.pdf) you’ll find:
 
    - An overview of why it’s important to set boundaries on your screen time.
    - Four big reasons limiting screen time is difficult.
